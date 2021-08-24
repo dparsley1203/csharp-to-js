@@ -1,3 +1,5 @@
+﻿using System;
+
 List<string> IWishFor = new List<string>()
 {
     "An original eight track of William Shatner's 'Lucy in the Sky with Diamonds'",
